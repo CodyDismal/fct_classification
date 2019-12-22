@@ -3,10 +3,15 @@
 
 Oleksandr Fedoruk
 
+fedoruk `małpa` outlook `kropka` jp
+
 UMCS, Lublin 2019-2020
 
+### Opis projektu
 
-### Fields descriptions
+Proste drzewo decydujące oparte o sklearn. 
+Wizualizacja drzewa zawiera pierwsze 5 poziomów bo czas generacji większej ilości jest gigantyczny.
+### Opis pól z kaggle.com
 
 1. Elevation - Elevation in meters
 2. Aspect - Aspect in degrees azimuth
@@ -24,10 +29,10 @@ UMCS, Lublin 2019-2020
 
 The wilderness areas are:
 
-1 - Rawah Wilderness Area
-2 - Neota Wilderness Area
-3 - Comanche Peak Wilderness Area
-4 - Cache la Poudre Wilderness Area
+1. Rawah Wilderness Area
+2. Neota Wilderness Area
+3. Comanche Peak Wilderness Area
+4. Cache la Poudre Wilderness Area
 
 The soil types are:
 
